@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CRMReactNative.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9BDD6260DF740457C17426D6B1AC7F7DE4ACE606</string>
+				<key>dateExpires</key>
+				<string>14/04/22</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>52TZUSLN94.org.reactjs.native.CRMReactNative</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>52TZUSLN94</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>52TZUSLN94.org.reactjs.native.CRMReactNative</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>CRMReactNative.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>30a9c04a-6594-4e71-bc47-a0b712767138</string>
+				<key>name</key>
+				<string>Prod Profile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>52TZUSLN94</string>
+				<key>name</key>
+				<string>Toppr Technologies Private Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
