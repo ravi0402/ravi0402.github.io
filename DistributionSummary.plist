@@ -20,12 +20,6 @@
 				<string>iOS Distribution</string>
 			</dict>
 			<key>entitlements</key>
-			<dict> 
-				<key>kind</key> 
-				<string>software-package</string> 
-				<key>url</key> 
-				<string>CRMReactNative.ipa</string> 
-			</dict> 
 			<dict>
 				<key>application-identifier</key>
 				<string>52TZUSLN94.org.reactjs.native.CRMReactNative</string>

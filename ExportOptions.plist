@@ -6,6 +6,15 @@
 	<true/>
 	<key>destination</key>
 	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/UjwalManjunath/UjwalManjunath.github.io/blob/gh-pages/CRMReactNative.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://ibb.co/HxhQJqm</string>
+		<key>fullSizeImageURL</key>
+		<string>https://ibb.co/cJKT1jF</string>
+	</dict>
 	<key>method</key>
 	<string>enterprise</string>
 	<key>provisioningProfiles</key>
